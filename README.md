@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! I'm Katie
+----------------
+Software Engineering is my outlet to combine my gift for abstract, analytical thinking with my love of solving real-world problems for real-world people. As I wrap up my time as a student and begin to build a career, I am beyond excited to continue building on what I have learned and to find ways I can use my skills to benefit those around me and leave my mark on the world.
 
 <!--
 **katiehons/katiehons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
